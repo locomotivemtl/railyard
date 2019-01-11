@@ -1,0 +1,13 @@
+{
+    "name": "locomotivemtl/railyard",
+    "description": "Registry of interface components shared across web sites, built with Charcoal.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Locomotive Inc.",
+            "email": "info@locomotive.ca"
+        }
+    ],
+    "require": {}
+}

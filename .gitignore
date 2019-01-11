@@ -1,0 +1,13 @@
+# Dependencies
+
+/vendor/
+/node_modules/
+
+# Byproducts
+
+*.log
+/logs/
+/cache/
+/build/docs/
+/build/logs/
+/build/report/
